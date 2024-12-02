@@ -1,0 +1,46 @@
+`body{background-color: #DAF7A6}
+h1{
+color-interpolation: #FFA07A;
+font-family: ForestGreen;
+font-size: 40px;
+text-align: center;
+background-color: BlueViolet;
+margin: 40px;
+padding: 20px;
+
+}
+
+p{
+color: #BA55D3	;
+font-family: Helvetica;
+font-size: 12px;
+
+}
+
+a{
+text-decoration-line:none ;
+color: #9ACD32;
+font-family: Helvetica;
+font-size: 12px;
+
+
+}
+
+a:hover{color: #808000	}
+
+ul{list-style-type: none;
+
+
+}
+
+li{
+
+
+	display: inline-block;
+	padding: 10px;
+	border-color: #4682B4;
+	border-style: dotted;
+	border-width: 5px;
+	background-color: #48D1CC;
+
+}
